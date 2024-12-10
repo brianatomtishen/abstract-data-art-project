@@ -31,15 +31,14 @@ Dataset: [https://www.kaggle.com/datasets/sansuthi/global-co2-emissions](https:/
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-blob:chrome-untrusted://media-app/084d9970-7051-4304-b9b7-eddc0bbf876b
+<img src="blob:chrome-untrusted://media-app/a9270960-acfe-4f75-bd8f-f53e8b23e1c8" alt="Screenshot 2024-12-09 8.58.05 AM.png"/>![image](https://github.com/user-attachments/assets/f690d42a-a8c1-4905-b7ab-93fa0bce4ad0)
+
 
 ## Video Demo
 
 Record a short video of your abstract art animation to display here on your README. You can do this by:
 
-
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+![image](https://github.com/user-attachments/assets/624c92a7-bce6-4887-b016-0f423b8d20a9)
 
 ## Description
 
