@@ -20,13 +20,12 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.
 
-Example:
+Dataset: [https://www.kaggle.com/datasets/sansuthi/global-co2-emissions](https://docs.google.com/spreadsheets/d/1lCEpVTYtGUYBD-_efe33KpcCRJv7xLKwD4Q126KwyRI/edit?gid=1638692842#gid=1638692842)
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
-
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+- **Name** (String) - name of the dog breed
+- **Bred For** (int) - reason dog breeds are bred
+- **Min Life** (int) - max age of dog breed
+- **Min Life** (int) - min age of dog breed
 
 ## UML Diagram
 
